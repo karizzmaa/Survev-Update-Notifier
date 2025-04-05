@@ -14,3 +14,7 @@ Download the userscript from [here](https://github.com/karizzmaa/Survev-Update-N
 ## Images
 
 ![image](https://github.com/karizzmaa/Survev-Update-Notifier/blob/main/images/1.png?raw=true)
+
+## Testing
+
+To test if the installation was successful, type ```testPopup()``` into the inspect element console and it should display the popup.
